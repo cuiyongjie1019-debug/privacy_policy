@@ -1,0 +1,127 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" id="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="x5-page-mode" content="app" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="x5-orientation" content="portrait" />
+    <meta name="360-fullscreen" content="true">
+    <meta name="full-screen" content="yes">
+    <meta name="screen-orientation" content="portrait">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <link href="css/xieyi.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="container">
+        <div class="back">
+            <a href="javascript:void(0)" onclick="history.back();">返回</a>
+        </div>
+        <h3>Saze山泽隐私政策</h3>
+        <div class="sub-title">
+            <p>
+                更新日期：2025年03月20日
+                <br>
+                生效日期：2025年03月20日
+            </p>
+        </div>
+        <p>欢迎您使用“Saze山泽”（以下简称“本软件”或“本服务”）。作为“Saze山泽”软件的运营者，郑州山泽网络科技有限公司，我们高度重视用户的隐私，并将按照法律法规的规定，保护您的个人信息及隐私安全。
+        <p>
+            我们希望通过本隐私政策向您说明，在使用我们的服务时，我们如何收集、使用、存储和提供这些信息；以及我们为您提供的访问、更新、控制和保护这些信息的方式。本隐私政策和您所使用的软件服务息息相关，希望您在使用本软件前仔细阅读，并做出您认为适当的选择。
+        </p>
+        <p class="f-bolder">
+            请特别注意，您使用或访问我们的应用程序或我们的服务，即表示您同意我们按照本《隐私政策》收集、使用、储存和共享您的相关信息。如果您不同意本隐私政策内容，将可能导致本软件无法正常运行，或无法完整体验软件中的各项设定。如您在弹窗页面选择“同意”，即表示您充分理解并同意本隐私政策的全部内容。
+        </p>
+        <p>在违反本产品的用户服务协议约定条款及国家相关法律法规规定的情况下，您的个人信息可能被删除。当信息被删除后，与您个人相关的、该单项服务项下的全部服务资料和数据将依照单项服务的服务协议约定删除或处理。如用户需要主动删除个人相关的信息，可以在设置界面，手动进行账号注销。账号注销后，我们将删除所有相关的用户个人信息和账号信息，并停止相关服务。
+        <p class="title">1、范围适用</p>
+        <p>在您使用本应用时，您可能需要提供根据app要求的个人注册信息；</p>
+        <p>
+            在您使用本应用网络服务，本应用自动接收并记录您的设备信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
+        </p>
+        <p>本应用通过合法途径从商业伙伴处取得的用户个人数据。</p>
+        <p class="title">2、我们收集的信息 </p>
+        <p>- 个人识别信息：如姓名、电子邮件地址、电话号码等。</p>
+        <p>- 设备基础信息：设备厂商、设备型号、操作系统、唯一设备标识符（包括 IMEI、设备序列号、OAID、MEID、AndroidID、IMS、GUID、MAC 地址、Wi Fi 详细信息、Wi Fi BSSID、Wi Fi SSID、传感器信息、SIM 卡序列号）。</p>
+        <p>- 设备硬件与状态信息：蓝牙 MAC 地址、NFC 设备信息、蓝牙设备信息、CPU 完整信息、CPU 架构类型、处理器型号、主板代号、平台代号、硬件厂商、CPU 核心列表、电池健康状态、电池容量、前置摄像头信息、后置摄像头信息、传感器集合信息、网卡 MAC 地址、屏幕亮度、屏幕尺寸、屏幕超时时间、USB 调试开启状态、采集时间、是否有 SIM 卡。</p>
+        <p>- 应用与使用信息：已安装 APP 信息、已安装 APP 包名列表、运行中的进程信息、剪切板内容、SD 卡数据。</p>
+        <p>- 位置信息：如 IP 地址、精准地理位置。</p>
+        <p>- 使用数据：如您访问的页面、点击的广告、服务日志、操作记录。 </p>
+        <!-- 新增：登录时存储权限相关说明 -->
+        <p>- 存储权限相关信息：您在登录本应用账号时，我们会向您申请设备存储权限（包括读取和写入存储权限），用于存储登录状态信息、账号缓存数据、用户个性化设置等必要数据，保障登录功能正常使用及后续服务体验。</p>
+
+        <p class="title">3、信息的收集目的</p>
+        <p>- 提供和维护我们的服务：包括用户认证、登录状态保持、功能适配、支付处理、客户支持等。</p>
+        <!-- 新增：存储权限收集目的 -->
+        <p>- 登录功能保障：在您登录时获取存储权限，用于保存登录凭证、缓存账号相关数据，避免重复登录，提升登录及后续使用体验；同时可存储您的登录操作记录，用于异常登录行为排查，保障账号安全。</p>
+        <p>- 设备适配与性能优化：根据设备硬件、屏幕、传感器、系统状态等信息优化渲染、兼容性、流畅度与功耗表现。  </p>
+        <p>- 数据分析：用于产品迭代、体验优化、问题排查、崩溃分析、稳定性提升。 </p>
+        <p>- 安全保障：识别异常环境、检测和预防欺诈、恶意程序、盗号与违规行为，保护用户账户与数据安全。</p>
+        <p>- 反作弊与合规校验：用于活动防刷、账号风控、合规审计，满足监管要求。</p>
+        <p>- 法律合规：遵守法律法规及监管规定，履行网络安全义务。</p>
+
+        <p class="f-bolder">4、信息的使用方式</p>
+        <p>- 内部使用：用于用户管理、设备适配、数据分析、问题排查、服务优化、安全风控等。</p>
+        <p>- 第三方服务：我们会与以下第三方服务提供商共享您的信息，以实现特定功能，共享方式为SDK 本机采集。</p>
+        <p>- 收集/共享信息：</p>
+        <p>- 个人识别信息：如姓名、电子邮件地址、电话号码等。</p>
+        <p>- 设备基础信息：设备厂商、设备型号、操作系统、唯一设备标识符（包括 IMEI、设备序列号、OAID、MEID、AndroidID、IMS、GUID、MAC 地址、Wi Fi 详细信息、Wi Fi BSSID、Wi Fi SSID、传感器信息、SIM 卡序列号）。</p>
+        <p>- 设备硬件与状态信息：蓝牙 MAC 地址、NFC 设备信息、蓝牙设备信息、CPU 完整信息、CPU 架构类型、处理器型号、主板代号、平台代号、硬件厂商、CPU 核心列表、电池健康状态、电池容量、前置摄像头信息、后置摄像头信息、传感器集合信息、网卡 MAC 地址、屏幕亮度、屏幕尺寸、屏幕超时时间、USB 调试开启状态、采集时间、是否有 SIM 卡。</p>
+        <p>- 应用与使用信息：已安装 APP 信息、已安装 APP 包名列表、运行中的进程信息、剪切板内容、SD 卡数据。</p>
+        <p>- 位置信息：如 IP 地址、精准地理位置。</p>
+        <p>- 使用数据：如您访问的页面、点击的广告、服务日志、操作记录。 </p>
+        <!-- 新增：存储权限信息的使用说明 -->
+        <p>- 存储权限相关信息：登录时获取的存储权限仅用于存储登录状态、账号缓存、个性化设置等必要数据，不会擅自访问、读取或修改您设备中的其他非必要文件（如照片、视频、文档等）；您可随时在设备系统设置中关闭存储权限，但关闭后可能导致登录状态丢失、无法保存个性化设置等问题，影响正常使用。</p>
+
+        <p>- 收集共享信息目的：</p>
+        <p>- 提供和维护我们的服务：包括用户认证、支付处理、客户支持、功能实现。</p>
+        <!-- 补充：存储权限相关目的 -->
+        <p>- 登录及账号管理：通过存储权限保存登录凭证，保障账号正常登录、状态持久化，提升服务可用性。</p>
+        <p>- 数据分析与设备适配：用于优化产品性能、兼容性、广告投放效果与服务质量。</p>
+        <p>- 安全保障：检测和预防欺诈、恶意程序、盗号、作弊等行为，保护用户账户安全。</p>
+        <p>- 法律合规：遵守法律法规及监管要求。</p>
+
+        <p>- 第三方名称及使用目的：</p>
+        <p style="text-indent: 1em;">- 广告类：百度移动广告SDK：用于广告投放和数据分析。SDK开发者：北京百度网讯科技有限公司，隐私政策链接:&nbsp;<a href="https://union.baidu.com/bqt/#/legal/policies" target="_blank" rel="noopener">https://union.baidu.com/bqt/#/legal/policies</a></p>
+        <p style="text-indent: 1em;">- 统计类：百度移动统计SDK：用于广告投放和数据分析。SDK开发者：北京百度网讯科技有限公司，隐私政策链接:&nbsp;<a href="https://tongji.baidu.com/web/help/article?id=330&type=0" target="_blank" rel="noopener">https://tongji.baidu.com/web/help/article?id=330&type=0</a></p>
+        <p style="text-indent: 1em;">- 广告类：优量汇?Android?SDK：用于广告投放和用户分析。SDK开发者：深圳市腾讯计算机系统有限公司，隐私政策链接:&nbsp;<a href="https://e.qq.com/dev/help_detail.html?cid=2005&pid=5983" target="_blank" rel="noopener">https://e.qq.com/dev/help_detail.html?cid=2005&pid=5983</a>  </p>
+        <p style="text-indent: 1em;">- 广告类：穿山甲广告 SDK：用于广告投放和用户分析。SDK开发者：北京巨量引擎网络技术有限公司，隐私政策链接:&nbsp;<a href="https://www.csjplatform.com/privacy/partner" target="_blank" rel="noopener">https://www.csjplatform.com/privacy/partner</a></p>
+        <p style="text-indent: 1em;">- 广告类：巨量引擎转化 SDK：用于广告投放和用户分析。SDK开发者：北京巨量引擎网络技术有限公司，隐私政策链接:&nbsp;<a href="https://open.oceanengine.com/labels/7/docs/1708428054592516" target="_blank" rel="noopener">https://open.oceanengine.com/labels/7/docs/1708428054592516</a></p>
+        <p style="text-indent: 1em;">- 广告类：快手联盟（Android） SDK：用于广告投放和数据分析。SDK开发者：北京快手科技有限公司，隐私政策链接:&nbsp;<a href="https://u.kuaishou.com/home/help/detail/1337/1425" target="_blank" rel="noopener">https://u.kuaishou.com/home/help/detail/1337/1425</a></p>
+        <p style="text-indent: 1em;">- 统计类：KOOM SDK：用于广告投放和数据分析。SDK开发者：北京快手科技有限公司，隐私政策链接:&nbsp;<a href="https://u.kuaishou.com/home/help/detail/1337/1425" target="_blank" rel="noopener">https://u.kuaishou.com/home/help/detail/1337/1425</a></p>
+        <p style="text-indent: 1em;">- 广告类：Sigmob SDK-Android：用于广告投放和数据分析。SDK开发者：北京创智汇聚科技股份有限公司，隐私政策链接:&nbsp;<a href="https://doc.sigmob.com/sigmob/140/" target="_blank" rel="noopener">https://doc.sigmob.com/sigmob/140/</a></p>
+        <p style="text-indent: 1em;">- 广告类：ToBid SDK-Android：用于广告投放和数据分析。SDK开发者：北京创致科技有限公司，隐私政策链接:&nbsp;<a href="https://doc.sigmob.com/tobid/260/" target="_blank" rel="noopener">https://doc.sigmob.com/tobid/260/</a></p>
+        <p style="text-indent: 1em;">- 统计类：友盟+移动统计SDK：用于广告投放和数据分析。SDK开发者：友盟同欣（北京）科技有限公司，隐私政策链接:&nbsp;<a href="https://www.umeng.com/page/policy" target="_blank" rel="noopener">https://www.umeng.com/page/policy</a></p>
+        <p style="text-indent: 1em;">- 社交类：友盟+社会化分享SDK：用于广告投放和数据分析。SDK开发者：友盟同欣（北京）科技有限公司，隐私政策链接:&nbsp;<a href="https://www.umeng.com/page/policy" target="_blank" rel="noopener">https://www.umeng.com/page/policy</a></p>
+        <p style="text-indent: 1em;">- 社交分享类：友盟SDK：用于广告投放和数据分析。SDK开发者：北京锐讯灵通科技有限公司，隐私政策链接:&nbsp;<a href="https://www.umeng.com/page/policy" target="_blank" rel="noopener">https://www.umeng.com/page/policy</a></p>
+
+        <p class="f-bolder">5、信息的共享和披露</p>
+        <p>我们不会未经您的同意与任何第三方共享您的个人信息，除非以下情况： </p>
+        <p style="text-indent: 1em;">- 遵守法律法规要求：如应政府机关或法律法规要求披露。</p>
+        <p style="text-indent: 1em;">- 保护和维护我们的权利和财产：在必要情况下与第三方共享信息以保障安全、维权、防范风险。</p>
+        <p style="text-indent: 1em;">- 获得您的明确同意：在获得您的明确同意后，我们可能与第三方共享您的信息。 </p>
+        <p style="text-indent: 1em;">- 为实现服务功能必要：向提供技术、广告、统计、支付、客服等服务的授权合作伙伴共享，且仅用于约定用途。 </p>
+        <!-- 补充：存储权限相关信息不共享说明 -->
+        <p style="text-indent: 1em;">- 登录时获取的存储权限仅用于本应用本地存储必要数据，不会将通过存储权限获取的本地数据共享给任何第三方，除非法律法规另有要求。</p>
+
+        <p class="f-bolder">6、用户权利</p>
+        <p>您有权访问、更正、删除您的个人信息，有权限制或拒绝相关信息处理，有权注销账号。如需行使这些权利，请通过以下方式联系我们：</p>
+        <p>yangjunhui@sanzes.com</p>
+        <!-- 补充：存储权限相关用户权利 -->
+        <p>您有权在设备系统设置中随时开启/关闭存储权限；关闭存储权限后，我们将停止收集和使用该权限对应的相关数据，但已存储的登录缓存数据仍可在本地删除（您可通过清理应用缓存完成）。</p>
+
+        <p class="f-bolder">7、数据安全</p>
+        <p>我们采取符合行业标准的安全技术措施与管理规范，保护您的个人信息免受未经授权的访问、使用、泄露、篡改或损毁。我们仅在实现本政策所述目的所需的期限内保留您的个人信息，除非法律另有规定或需要延长保留期。 </p>
+        <!-- 补充：存储权限数据安全 -->
+        <p>通过登录时获取的存储权限保存的账号数据、登录凭证等信息，我们会采用加密方式存储在您的设备本地，仅本应用可访问，不会被其他应用或第三方获取，保障数据安全。</p>
+
+        <p class="f-bolder">8、本隐私政策的变更</p>
+        <p>如果我们决定更改隐私政策，我们将在应用内、官方网站及我们认为合适的地方公布变更内容，以便您及时了解。我们保留随时修改本政策的权利，建议您定期查阅。如本政策发生重大变更，我们将通过应用内通知、弹窗或网站公告等方式通知您。</p>
+
+        <p>郑州山泽网络科技有限公司</p>
+    </div>
+    <script src="js/jquery.js"></script>
+</body>
+</html>
